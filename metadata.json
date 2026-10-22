@@ -1,0 +1,6 @@
+{
+  "name": "Eurocodes Studio",
+  "description": "Suite d'ingénierie civile et de calcul de structures conforme aux Eurocodes (EC2, EC4) avec moteur normatif d'ancrages, recouvrements, plans CAO DXF et notes de calcul DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

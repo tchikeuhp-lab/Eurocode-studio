@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan complet d'implémentation pour Eurocodes Studio :\n- Module transversal : Prise en compte du Séisme (EC8), Feu (EC1-2/EC2-1-2/EC3-1-2/EC5-1-2), Contraintes et Fissuration ELS (EC2 §7)\n- Poutres : Multi-travées (1 à 5 travées), conditions aux appuis, multi-matériaux (Béton, Acier S275/S355, Bois C24/GL24h)\n- Poteaux : Conditions aux appuis (facteurs de longueur efficace beta), multi-matériaux (Béton 8 formes, Acier, Bois)\n- Assemblages Acier & Bois : Schémas vectoriels cotés Poutre/Poteau, Poteau/Poteau, Poutre/Poutre (platines boulonnées, étriers à broches, sabots)\n- Dalles & Planchers : Planchers à corps creux (poutrelles 12+4, 16+4, 20+5 cm), dalles pleines, dalles alvéolées, planchers collaborants\n- Fondations : Semelles isolées, semelles filantes, semelles sur pieux (1, 2, 3, 4 pieux) selon Blévot sous les 8 formes de poteaux\n- Poutres Mixtes : Schémas cotés profilé/goujons/dalle, formules complètes des connecteurs et vérifications (table, âme, semelles, degré de connexion)\n- Rendu KaTeX, DXF enrichi et Note de calcul DOCX synchronisée",
+  "updatedAt":  "2026-10-22T09:05:36.857210827Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
